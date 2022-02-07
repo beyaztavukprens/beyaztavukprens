@@ -1,0 +1,35 @@
+{
+"results": [
+  {
+    "rank": 1,
+    "image": "https://i.imgur.com/tURrLIp.jpg",
+    "description": "Bir istiridyenin kıymetli incisini sakladığı gibi saklarım seni…"
+  }, {
+    "rank": 2,
+    "image": "https://i.pinimg.com/originals/fe/5a/e5/fe5ae5637344a21ee81de1463f111f54.png",
+    "description": "Sen bana geç kaldın ben sana erken"
+  }
+],
+"musics": [
+  {
+    "id": 1,
+    "name": "Sen Benim Şarkılarımsın",
+    "link": "https://server1.indiryuklemp3.org/mp3_files/9c129969eac6125b079ad0a415f2a72d.mp3"
+  },
+   {
+    "id": 2,
+    "name": "Ben Seni Çok Sevdim",
+    "link": "https://server1.indiryuklemp3.org/mp3_files/b63bf89b9711c1615711bdef48c28abe.mp3"
+  },
+   {
+    "id": 3,
+    "name": "Mutlu Yıllar",
+    "link": "https://server1.indiryuklemp3.org/mp3_files/mutlu-yillar-siyah-bir-veda-opucugu-zw6ucE43t9-0.mp3"
+  },
+   {
+    "id": 4,
+    "name": "Yıldızların Altında",
+    "link": "https://server1.indiryuklemp3.org/mp3_files/9941bb329e4c75bbe52920d95a17809d.mp3"
+  }
+]
+}
